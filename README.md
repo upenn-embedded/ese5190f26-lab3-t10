@@ -1,12 +1,12 @@
 # Lab 3 Theremin
 
-**Team Name/Number: Lab 09**
+**Team Name/Number: Lab 10**
 
 **GitHub Repository URL: https://github.com/upenn-embedded/ese5190f26-lab3-t10.git**
 
 | Team Member Name | Email Address       | GitHub Handle       |
 |------------------|---------------------|---------------------|
-| [Name 1]         | [Email 1]           | [Handle 1]          |
+| [Yaohu Gu]         | [guy7@engineering.upenn.edu]           | [Guangguy7]          |
 | [Nikhil Sheth]         | [nsheth1@wharton.upenn.edu]           | [nsheth19]          |
 
 
