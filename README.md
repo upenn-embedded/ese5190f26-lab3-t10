@@ -42,3 +42,20 @@ R1
 
 R2
 OCR0A = 0.002709 * SENSOR_VALUE + 29.664
+
+
+S2
+![S2 Screenshot](./F.png)
+
+
+I7
+![I7 Screenshot](./G1.png)
+
+I8
+![I8 Screenshot](./G2.png)
+
+I9
+![I9 Screenshot](./G3.png)
+
+I10
+![I10 Screenshot](./G4.png)
