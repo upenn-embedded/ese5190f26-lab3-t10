@@ -2,7 +2,7 @@
 
 **Team Name/Number: Lab 09**
 
-**GitHub Repository URL:**
+**GitHub Repository URL: https://github.com/upenn-embedded/ese5190f26-lab3-t10.git**
 
 | Team Member Name | Email Address       | GitHub Handle       |
 |------------------|---------------------|---------------------|
